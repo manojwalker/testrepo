@@ -16,7 +16,6 @@ def mul(a,b):
     #multiply two numbers by taking inlut from User
 print(mul(a,b))
 
-"""
 a = int(input("Enter a number: "))
 b = int(input("Enter another number: "))
 def add(a,b):
@@ -35,8 +34,6 @@ def mul(a,b):
     #multiply two numbers by taking inlut from User
 print(mul(a,b))
 
- give me the testcases for above 
-"""
 
 
 
